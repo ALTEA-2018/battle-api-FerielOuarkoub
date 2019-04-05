@@ -1,7 +1,7 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.miage.altea.tp</groupId>
-    <artifactId>altea-project-skeleton</artifactId>
+    <artifactId>battle_api</artifactId>
     <version>0.1.0</version>
     <packaging>jar</packaging>
 
